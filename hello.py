@@ -1,2 +1,2 @@
-def hello():
-    print('hello world!')
+def hello(name):
+    print('hello {}!'.format(name))
